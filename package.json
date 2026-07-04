@@ -1,0 +1,10 @@
+{
+    "name" : "com.awais.component-swapper",
+    "version" : "1.0.0",
+    "displayName": "Component Swapper",
+    "description" : "A simple component swapper for Unity",
+    "unity" : "2021.3",
+    "author": {
+        "name" : "Muhammad Awais"
+    }
+}
